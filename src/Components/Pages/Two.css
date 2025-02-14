@@ -1,0 +1,35 @@
+.img img{
+    width: 368px;
+    height: 450px;
+    text-align: center;
+}
+.fly{
+    font-weight: bold;
+}
+.head{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.park{
+    font-weight: bold;
+}
+.away{
+    font-weight: bold;
+}
+.image{
+    width: 0px;
+    height:0px;
+    
+}
+.image img{
+    margin-top: -70px;
+    width: 250px;
+    height: 250px;
+    margin-left: 900px;
+    z-index: -1;
+}
+.ride{
+    display: grid;
+    z-index: -1;
+    /* grid-template-columns: 1fr 1fr; */
+}
