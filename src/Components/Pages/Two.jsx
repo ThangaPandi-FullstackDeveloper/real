@@ -7,7 +7,7 @@ export default function Two() {
     return(
         <>
             <Main/>
-              <img src={two} alt="" />
+              {/* <img src={two} alt="" /> */}
               <p className='head'><span className='park'>Flyaway Onsite Airport Parking Services: Convenience at Your Fingertips<br/><br/></span>
 Flyaway Parking is your trusted partner for hassle-free onsite airport parking services. Whether you're traveling for business or leisure,<br/> our convenient parking solutions are designed to enhance your journey from start to finish.<br/><br/>
 <p className='image'><img src={two} alt="" /></p>

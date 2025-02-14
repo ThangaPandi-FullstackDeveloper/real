@@ -9,6 +9,7 @@ import Nopage from './Components/Pages/Nopage'
 function App() {
   return (
     <div className="App">
+      {/* <Nopage/> */}
         <BrowserRouter>
           <Routes>
             <Route index element={<One/>}/>

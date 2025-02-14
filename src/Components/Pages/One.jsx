@@ -12,7 +12,7 @@ export default function One() {
     return(
         <>
             <Main/>
-           <p className='img'> <img src={one} alt="" /></p>
+           {/* <p className='img'> <img src={one} alt="" /></p> */}
             <p className='head'><h2>Flyaway Parking: Park & Ride Airport Parking Services in UK Airports</h2>
 Introduction<br/>
 <span className='fly'>Flyaway Parking</span> is committed to offering hassle-free, budget-friendly, and safe parking solutions at major UK airports. Our <span className='park'>Park & Ride</span> service is an easy and stress-free way<br/> for you to begin and end your journey with as little hassle as possible. Your vehicle will be safe and secure while you are away on your trip. <br/><br/>

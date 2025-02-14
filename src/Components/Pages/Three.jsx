@@ -14,7 +14,7 @@ export default function Three() {
     return(
         <>
             <Main/>
-            <img src={three} alt="" />
+            {/* <img src={three} alt="" /> */}
             <p className='head'><span className='park'>Flyaway: Meet & Greet Airport Parking Services in the UK </span><br/><br/>
 Introduction to <span className='park'>Flyaway Parking</span> Meet & Greet Parking Services <br/><br/>
 <p className='image'><img src={three} alt="" /></p>
